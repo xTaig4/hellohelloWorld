@@ -10,6 +10,7 @@ namespace TestDay3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("444");
         }
     }
 }
